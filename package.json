@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+<<<<<<< HEAD
     "start": "vue-cli-service serve --open",
+=======
+    "stare": "vue-cli-service serve --open",
+>>>>>>> 56e9e1539c17dfd8f38988615a0a8578f4677b05
     "build": "vue-cli-service build"
   },
   "dependencies": {
